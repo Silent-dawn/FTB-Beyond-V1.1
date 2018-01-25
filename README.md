@@ -11,7 +11,6 @@
 		   My Server - 69.162.113.142:1337
 
                           Modlist
-						  -------
 						  
 						JourneyMap
 						by techbrew
